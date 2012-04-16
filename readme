@@ -1,0 +1,6 @@
+
+This project contains various sketches that I have made in my spare time.
+Please consider adding comments/forking this repo. if you have somthing to share and improve upon this.
+The scripts given here will also work on standard arduino boards too, but pin number configurations would have to be modified accordingly.
+The scripts have been tested on my device, but execution of scripts should be done at your own descretion.
+I am not liable for any damages to the device, user or programming tools arising out of usage of these scripts.
